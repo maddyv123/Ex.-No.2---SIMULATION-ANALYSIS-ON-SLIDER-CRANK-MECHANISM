@@ -1,4 +1,4 @@
-# Ex. No.  - SIMULATION ANALYSIS ON SLIDER CRANK MECHANISM
+# Ex. No. 2  - SIMULATION ANALYSIS ON SLIDER CRANK MECHANISM
 
 ## DATE: 
 
@@ -45,9 +45,14 @@
 
 ## Output
 
+![image](https://github.com/Oviya24032K6/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/147139999/b856a576-d53d-4af6-8905-8a9b31462fc1)
+![image](https://github.com/Oviya24032K6/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/147139999/5151d217-4299-4d2c-af5b-df5a7ed4a4d5)
+![image](https://github.com/Oviya24032K6/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/147139999/2535e33b-74ed-4fd5-b33a-02ce9c734e27)
 
-### Name:
-### Register Number: 
+
+
+### Name: MATHAVAN V
+### Register Number: 212223110026
 
 ## RESULT:
 ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
